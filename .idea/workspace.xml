@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c7f653c-a179-4095-99a3-2ce4ebbcd054" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,9 +74,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.develop" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.develop" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569620403504</updated>
-      <workItem from="1569620404614" duration="7503000" />
+      <workItem from="1569620404614" duration="9930000" />
     </task>
     <task id="LOCAL-00001" summary="gallery has been updated">
       <created>1569626892007</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569627414017</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gallery has been updated">
+      <created>1569667424359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569667424359</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
